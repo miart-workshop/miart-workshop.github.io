@@ -1,0 +1,11 @@
+# Generated output
+_site/
+.jekyll-metadata
+.jekyll-cache/
+
+# Ruby bundler files
+vendor/
+.bundle/
+
+# Mac OS files
+.DS_Store
