@@ -19,9 +19,13 @@
   <a id="skip-to-content" href="#content">Skip to the content.</a>
 
   <header class="page-header" role="banner">
-    <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-    <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline
-      }}</h2>
+    <div style="display: flex; align-items: center; justify-content: center; gap: 1rem; flex-wrap: wrap;">
+      <img src="{{ '/assets/images/miart-logo.svg' | relative_url }}" alt="MIART Logo" style="width: 80px; height: 80px;">
+      <div>
+        <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+        <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      </div>
+    </div>
 
     <nav style="margin-top: 2rem;">
       <a href="{{ '/2026.html' | relative_url }}" class="btn">Upcoming Event</a>
@@ -34,7 +38,9 @@
     {{ content }}
 
     <footer class="site-footer">
-      <span class="site-footer-credits">&copy; {{ site.time | date: '%Y' }} The Organisers.</span>
+      <span class="site-footer-credits">&copy; {{ site.time | date: '%Y' }} The Organisers. &nbsp;|&nbsp;
+        <a href="https://www.linkedin.com/company/miart-workshop" target="_blank" rel="noopener">Follow us on LinkedIn</a>
+      </span>
     </footer>
   </main>
 </body>
