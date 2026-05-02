@@ -122,7 +122,7 @@ For enquiries, please contact any of the general chairs listed above, or visit t
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 2rem; flex-wrap: wrap; margin-top: 2rem;">
   <div style="text-align: center;">
-    <img src="/assets/images/miart-logo.svg" alt="MIART Workshop Logo" style="width: 80px; height: 80px;">
+    <img src="/assets/images/miart-logo-notext.png" alt="MIART Workshop Logo" style="width: 100px; height: 100px;">
     <p style="margin: 0.5rem 0 0; font-size: 0.85rem;">MIART 2026</p>
   </div>
   <div style="text-align: center;">
