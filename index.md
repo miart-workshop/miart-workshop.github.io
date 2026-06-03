@@ -72,29 +72,29 @@ Submissions are invited across the full breadth of the therapeutic AI workflow, 
 
 ## Important Dates
 
-- **Paper Submission Opens:** May 2026 (TBD)
-- **Paper Submission Deadline:** July 2026 (TBD)
-- **Notification of Acceptance:** August 2026 (TBD)
-- **Camera-ready Version:** August 2026 (TBD)
+- **Submission Deadline:** July 10, 2026
+- **Decision Release:** August 3, 2026
+- **Camera-ready Submission:** August 14, 2026
+- **Camera-ready Papers Due:** August 27, 2026
 - **Workshop Date:** October 1, 2026
 
 ---
 
 ## Preliminary Programme
 
-*Tentative schedule for a half-day afternoon session.*
+*Tentative schedule for a half-day morning session.*
 
 | Time | Session |
 | ---- | ------- |
-| **14:00 – 14:05** | **Opening Session** |
-| **14:05 – 14:40** | **Keynote 1** *(AI/Engineering perspective):* Invited talk on methodological advances in physics-aware and safety-critical AI for radiotherapy. |
-| **14:40 – 15:10** | **Accepted Contributions** *(Methodological depth, grouped thematically)* |
-| **15:10 – 15:25** | **Coffee Break** |
-| **15:25 – 16:00** | **Keynote 2** *(Clinician perspective):* Invited talk on clinical translation, treatment workflow integration, and patient-centred AI evaluation. |
-| **16:00 – 16:30** | **Accepted Contributions** *(Clinical relevance and discussion)* |
-| **16:30 – 17:10** | **Keynote 3** *(Medical Physicist perspective):* Invited talk on treatment planning, dose modelling, and physics-informed AI. |
-| **17:10 – 17:40** | **Accepted Contributions** *(Continued themes and audience discussion)* |
-| **17:40 – 18:00** | **Closing Session and Best Paper Award** |
+| **08:00 – 08:05** | **Opening Session** |
+| **08:05 – 08:40** | **Talk title to be Finalized** <br> **Stine Sofia Korreman** – Professor of Medical Physics, lead of the Artificial Intelligence and Big Data in Radiation Oncology research group. Aarhus University Hospital / Aarhus University |
+| **08:40 – 09:10** | **Accepted Proof-read Contributions** *(Methodological depth, grouped thematically)* |
+| **09:10 – 09:25** | **Coffee Break** |
+| **09:25 – 10:00** | **Image synthesis in radiotherapy: state-of-the-art, clinical integration, and future directions** <br> **Matteo Maspero** – Assistant Professor and Medical Physicist. Computational Imaging Group for MR Therapy and Diagnostics. University Medical Center Utrecht |
+| **10:00 – 10:30** | **Accepted Proof-read Contributions** |
+| **10:30 – 11:10** | **Talk title to be Finalized** <br> **Jan Peeken** – Managing Senior Physician of the Artificial Intelligence in Radiation Oncology research group, TUM University Hospital Munich |
+| **11:10 – 11:40** | **Accepted Proof-read Contributions** |
+| **11:40 – 12:00** | **Closing Session and Best Paper Award** |
 
 ---
 
