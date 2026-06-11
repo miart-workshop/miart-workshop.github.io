@@ -18,6 +18,7 @@ Welcome to the official website of the **MIART 2026** workshop, held in conjunct
 
 ## Announcements
 
+- **[June 2026]** **Submissions are now open!** Submit your paper via [OpenReview](https://openreview.net/group?id=MICCAI.org/2026/Workshop/MIART). The submission deadline is **July 10, 2026**.
 - **[May 2026]** MIART 2026 has been accepted as an official MICCAI 2026 satellite event. Follow us on [LinkedIn](https://www.linkedin.com/posts/oscar-acosta-_radiotherapy-ai-miccai2026-activity-7269316958118703104-h6Bm) for updates.
 
 <div style="display: flex; justify-content: center; margin: 1.5rem 0;">
@@ -65,7 +66,7 @@ Submissions are invited across the full breadth of the therapeutic AI workflow, 
 - **Format:** Manuscripts should be 8–10 pages (including references), formatted and anonymised according to the [Lecture Notes in Computer Science (LNCS) style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
 - **Review Process:** Submissions will undergo double-blind review by three independent reviewers, selected to avoid institutional conflicts of interest.
 - **Ethics and Privacy:** Papers involving patient data must clearly state ethical approval or waiver status. Use of synthetic or simulated data must be explicitly identified.
-- **Submission System:** OpenReview (portal link to be announced).
+- **Submission System:** [OpenReview](https://openreview.net/group?id=MICCAI.org/2026/Workshop/MIART) — submissions are now open.
 - **Proceedings:** Accepted papers will be published under the MICCAI Springer joint publication model.
 
 ---
