@@ -87,12 +87,12 @@ Submissions are invited across the full breadth of the therapeutic AI workflow, 
 | Time | Session |
 | ---- | ------- |
 | **08:00 – 08:05** | **Opening Session** |
-| **08:05 – 08:40** | **Talk title to be Finalized** <br> **Stine Sofia Korreman** – Professor of Medical Physics, lead of the Artificial Intelligence and Big Data in Radiation Oncology research group. Aarhus University Hospital / Aarhus University |
-| **08:40 – 09:10** | **Accepted Proof-read Contributions** *(Methodological depth, grouped thematically)* |
+| **08:05 – 08:40** | **Are We Solving the Right Problems? Building AI That Matters for Radiotherapy (Preliminary title)** <br> **Stine Sofia Korreman** – Professor of Medical Physics, lead of the Artificial Intelligence and Big Data in Radiation Oncology research group. Aarhus University Hospital / Aarhus University |
+| **08:40 – 09:10** | **Accepted Proof-read Contributions** *(Grouped thematically)* |
 | **09:10 – 09:25** | **Coffee Break** |
-| **09:25 – 10:00** | **Image synthesis in radiotherapy: state-of-the-art, clinical integration, and future directions** <br> **Matteo Maspero** – Assistant Professor and Medical Physicist. Computational Imaging Group for MR Therapy and Diagnostics. University Medical Center Utrecht |
+| **09:25 – 10:00** | **Image synthesis in radiotherapy: state-of-the-art, clinical integration, and future directions** <br> **Matteo Maspero** – Assistant professor and Medical Physicist. Radiotherapy Department, Computational Imaging Group for MR Therapy and Diagnostics. University Medical Center Utrecht |
 | **10:00 – 10:30** | **Accepted Proof-read Contributions** |
-| **10:30 – 11:10** | **Talk title to be Finalized** <br> **Jan Peeken** – Managing Senior Physician of the Artificial Intelligence in Radiation Oncology research group, TUM University Hospital Munich |
+| **10:30 – 11:10** | **From Pixels to Decisions: Building Clinically Actionable AI in Radiation Oncology** <br> **Jan Peeken** – Managing Senior Physician and Lead of the Artificial Intelligence in Radiation Oncology Research Group, TUM University Hospital Munich |
 | **11:10 – 11:40** | **Accepted Proof-read Contributions** |
 | **11:40 – 12:00** | **Closing Session and Best Paper Award** |
 
