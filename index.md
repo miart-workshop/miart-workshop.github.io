@@ -18,7 +18,8 @@ Welcome to the official website of the **MIART 2026** workshop, held in conjunct
 
 ## Announcements
 
-- **[June 2026]** **Submissions are now open!** Submit your paper via [OpenReview](https://openreview.net/group?id=MICCAI.org/2026/Workshop/MIART). The submission deadline is **July 10, 2026**.
+- **[July 2026]** **Submission deadline extended!** The paper submission deadline has been extended to **July 17, 2026 (11:59 PM CEST)** — submissions close at 12:00 AM CEST on July 18, 2026. Submit your paper via [OpenReview](https://openreview.net/group?id=MICCAI.org/2026/Workshop/MIART).
+- **[June 2026]** **Submissions are now open!** Submit your paper via [OpenReview](https://openreview.net/group?id=MICCAI.org/2026/Workshop/MIART).
 - **[May 2026]** MIART 2026 has been accepted as an official MICCAI 2026 satellite event. Follow us on [LinkedIn](https://www.linkedin.com/posts/oscar-acosta-_radiotherapy-ai-miccai2026-activity-7269316958118703104-h6Bm) for updates.
 
 <div style="display: flex; justify-content: center; margin: 1.5rem 0;">
@@ -73,9 +74,9 @@ Submissions are invited across the full breadth of the therapeutic AI workflow, 
 
 ## Important Dates
 
-- **Submission Deadline:** July 10, 2026
-- **Decision Release:** August 3, 2026
-- **Camera-ready Submission:** August 14, 2026
+- **Submission Deadline:** ~~July 10, 2026~~ **Extended to July 17, 2026 (11:59 PM CEST)**
+- **Decision Release:** August 10, 2026
+- **Camera-ready Submission:** August 20, 2026
 - **Camera-ready Papers Due:** August 27, 2026
 - **Workshop Date:** October 1, 2026
 
