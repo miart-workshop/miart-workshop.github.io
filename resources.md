@@ -31,7 +31,12 @@ TTRAIL is a Marie Skłodowska-Curie Doctoral Network (MSCA-DN) training 15 docto
 ### DLinRT — Deep Learning in Radiotherapy
 **[dlinrt.eu](https://www.dlinrt.eu/)**
 
-DLinRT is a community platform cataloguing and evaluating commercial deep learning solutions across the radiotherapy workflow — from image reconstruction and auto-contouring to treatment planning and clinical prediction — with a focus on the European market. The platform provides product entries with technical specifications, regulatory status, and clinical evidence, alongside compliance resources for deploying AI safely in clinical practice.
+DLinRT is a community platform cataloguing and evaluating commercial deep learning solutions across the radiotherapy workflow — from image reconstruction and auto-contouring to treatment planning and clinical prediction — with a focus on the European market. It is an excellent starting point for the field, offering:
+
+- **[Products](https://www.dlinrt.eu/products)** — a searchable catalogue of 89+ commercial AI/QA solutions with technical specifications and regulatory (CE/FDA/TGA) status.
+- **[Companies](https://www.dlinrt.eu/companies)** — an overview of the 40+ vendors developing AI solutions for radiotherapy.
+- **[Resources & Compliance](https://www.dlinrt.eu/resources-compliance)** — guidance, checklists, and standards for deploying AI safely in clinical practice.
+- **[Research & Initiatives](https://www.dlinrt.eu/initiatives)** — related community efforts, including datasets and challenges in the field.
 
 ---
 
@@ -49,12 +54,21 @@ BART was a one-day symposium held on 14 March 2025 at the University of Bern, br
 ### ESTRO — European Society for Radiotherapy and Oncology
 **[estro.org](https://www.estro.org/)**
 
-ESTRO organises the largest annual European radiation oncology congress, as well as dedicated physics, biology, and technology-focused courses and workshops throughout the year. The ESTRO Physics event and ESTRO AI-focused sessions are particularly relevant to the MIART community.
+ESTRO organises the largest annual European radiation oncology congress, as well as dedicated physics, biology, and technology-focused courses and [workshops](https://www.estro.org/Workshops) throughout the year, including:
+
+- **ESTRO Physics Workshop** — a recurring event on emerging physics and technology in radiotherapy; the 2026 edition runs 8–9 October 2026 in Prague, Czech Republic.
+- **ESTRO Clinical Workshop: AI & Big Data** — focused on the use of AI for auto-contouring (organ-at-risk and target volumes), for clinicians, physicists, and data scientists.
+- **GEC-ESTRO Workshop** — the brachytherapy-focused counterpart, with the 2026 edition running 19–20 November 2026 in Seville, Spain.
 
 ### ASTRO — American Society for Radiation Oncology
 **[astro.org](https://www.astro.org/)**
 
 ASTRO hosts the world's largest radiation oncology meeting each autumn, covering the full spectrum of clinical, technological, and research advances in the field. The annual meeting includes dedicated tracks on AI, treatment planning, and emerging technologies.
+
+### ICCR — International Conference on the use of Computers in Radiation Therapy
+**[iccr2024.org](https://iccr2024.org/)** *(2024 edition — 2027 edition site not yet live)*
+
+ICCR is one of the longest-running dedicated venues for computational methods in radiotherapy, held roughly every three years since the 1970s; the 20th edition was held in Lyon, France, in July 2024. The next edition, ICCR 2027, is planned for Quebec, Canada — details to follow via ESTRO/AAPM/COMP channels as the official site is announced.
 
 ---
 
