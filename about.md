@@ -11,7 +11,7 @@ layout: default
 </nav>
 
 ## Announcements
-
+- **[August 2026]** MIART 2026 is [endorsed](https://www.estro.org/Congresses/Endorsed-congresses) by ESTRO (European Society for Radiotherapy and Oncology). This highlights the growing importance of clinically impactful AI research at the intersection of medical image computing and radiation oncology.
 - **[July 2026]** **Submission deadline extended!** The paper submission deadline has been extended to **July 17, 2026 (11:59 PM CEST)** — submissions close at 12:00 AM CEST on July 18, 2026. Submit your paper via [OpenReview](https://openreview.net/group?id=MICCAI.org/2026/Workshop/MIART).
 - **[June 2026]** **Submissions are now open!** Submit your paper via [OpenReview](https://openreview.net/group?id=MICCAI.org/2026/Workshop/MIART).
 - **[May 2026]** MIART 2026 has been accepted as an official MICCAI 2026 satellite event. Follow us on [LinkedIn](https://www.linkedin.com/posts/oscar-acosta-_radiotherapy-ai-miccai2026-activity-7269316958118703104-h6Bm) for updates.
