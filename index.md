@@ -26,6 +26,8 @@ Welcome to the official website of the **MIART 2026** workshop, held in conjunct
 
 **Submission deadline extended to July 17, 2026 (11:59 PM CEST).** Submit your paper via [OpenReview](https://openreview.net/group?id=MICCAI.org/2026/Workshop/MIART) — see the [Call for Papers](call-for-papers.html) for full details. See [About & Announcements](about.html) for the latest news.
 
+MIART Workshop 2026 is [endorsed](https://www.estro.org/Congresses/Endorsed-congresses) by the European Society for Radiotherapy and Oncology (ESTRO).
+
 ---
 
 ## Preliminary Programme
@@ -78,5 +80,8 @@ The workshop will take place in **Room Bruxelles (ground floor)**, 08:00 – 12:
   </div>
   <div style="text-align: center;">
     <img src="/assets/images/miccai-logo.svg" alt="MICCAI 2026 Logo" style="height: 60px; width: auto;">
+  </div>
+  <div style="text-align: center;">
+    <img src="/assets/images/Endorsed-by-ESTRO-logo_WEB.jpg" alt="Endorsed by ESTRO" style="height: 60px; width: auto;">
   </div>
 </div>
