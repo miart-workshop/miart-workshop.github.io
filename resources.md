@@ -10,39 +10,39 @@ Welcome to the **MIART Workshop Resources** page. Below is a curated list of rel
 
 ## Related Challenges
 
-### DoseRAD 2026 — Real-time Dose Calculation in Radiotherapy
+### DoseRAD 2026: Real-time Dose Calculation in Radiotherapy
 **[doserad2026.grand-challenge.org](https://doserad2026.grand-challenge.org/)**
 
-DoseRAD 2026 is a MICCAI 2026 satellite challenge benchmarking fast and accurate 3D radiation dose calculation for both photon and proton radiotherapy, using CT or MRI as input. The challenge covers four tasks — photon and proton dose on CT and MRI — reflecting current and emerging radiotherapy modalities, including MRI-guided and online adaptive workflows. Running around the same time as MIART 2026, it provides a natural complement to the workshop for the dose modelling community.
+DoseRAD 2026 is a MICCAI 2026 satellite challenge benchmarking fast and accurate 3D radiation dose calculation for both photon and proton radiotherapy, using CT or MRI as input. The challenge covers four tasks (photon and proton dose on CT and MRI), reflecting current and emerging radiotherapy modalities, including MRI-guided and online adaptive workflows. Running around the same time as MIART 2026, it provides a natural complement to the workshop for the dose modelling community.
 
 ---
 
 ## Related Training Programmes
 
-### TTRAIL — Trustworthy Transferable Radiotherapy with Artificial Intelligence
+### TTRAIL: Trustworthy Transferable Radiotherapy with Artificial Intelligence
 **[ttrail.eu](https://www.ttrail.eu/)**
 
-TTRAIL is a Marie Skłodowska-Curie Doctoral Network (MSCA-DN) training 15 doctoral candidates across 10 European institutions to become the next generation of translational AI radiotherapy scientists. The programme embeds trustworthiness by design across the full RT pipeline — from federated data integration and uncertainty quantification, to explainable AI and real-time adaptive delivery.
+TTRAIL is a Marie Skłodowska-Curie Doctoral Network (MSCA-DN) training 15 doctoral candidates across 10 European institutions to become the next generation of translational AI radiotherapy scientists. The programme embeds trustworthiness by design across the full RT pipeline, from federated data integration and uncertainty quantification, to explainable AI and real-time adaptive delivery.
 
 ---
 
 ## Related Communities and Platforms
 
-### DLinRT — Deep Learning in Radiotherapy
+### DLinRT: Deep Learning in Radiotherapy
 **[dlinrt.eu](https://www.dlinrt.eu/)**
 
-DLinRT is a community platform cataloguing and evaluating commercial deep learning solutions across the radiotherapy workflow — from image reconstruction and auto-contouring to treatment planning and clinical prediction — with a focus on the European market. It is an excellent starting point for the field, offering:
+DLinRT is a community platform cataloguing and evaluating commercial deep learning solutions across the radiotherapy workflow, from image reconstruction and auto-contouring to treatment planning and clinical prediction, with a focus on the European market. It is an excellent starting point for the field, offering:
 
-- **[Products](https://www.dlinrt.eu/products)** — a searchable catalogue of 89+ commercial AI/QA solutions with technical specifications and regulatory (CE/FDA/TGA) status.
-- **[Companies](https://www.dlinrt.eu/companies)** — an overview of the 40+ vendors developing AI solutions for radiotherapy.
-- **[Resources & Compliance](https://www.dlinrt.eu/resources-compliance)** — guidance, checklists, and standards for deploying AI safely in clinical practice.
-- **[Research & Initiatives](https://www.dlinrt.eu/initiatives)** — related community efforts, including datasets and challenges in the field.
+- **[Products](https://www.dlinrt.eu/products)**: a searchable catalogue of 89+ commercial AI/QA solutions with technical specifications and regulatory (CE/FDA/TGA) status.
+- **[Companies](https://www.dlinrt.eu/companies)**: an overview of the 40+ vendors developing AI solutions for radiotherapy.
+- **[Resources & Compliance](https://www.dlinrt.eu/resources-compliance)**: guidance, checklists, and standards for deploying AI safely in clinical practice.
+- **[Research & Initiatives](https://www.dlinrt.eu/initiatives)**: related community efforts, including datasets and challenges in the field.
 
 ---
 
 ## Prior Events
 
-### BART 2025 — Bern AI in RadioTherapy Symposium
+### BART 2025: Bern AI in RadioTherapy Symposium
 **[amithjkamath.github.io/bart25](https://amithjkamath.github.io/bart25/)**
 
 BART was a one-day symposium held on 14 March 2025 at the University of Bern, bringing together researchers from radiation oncology, medical physics, and AI engineering. The event featured invited talks from industry, academia, and clinical practitioners, alongside student presentations and flash talks on AI-driven treatment planning, automated segmentation, predictive modelling, image-guided radiotherapy, and quality assurance. BART reached capacity with 100 participants and represents a direct precursor to the MIART community-building effort.
@@ -51,24 +51,24 @@ BART was a one-day symposium held on 14 March 2025 at the University of Bern, br
 
 ## Major Radiation Oncology Conferences
 
-### ESTRO — European Society for Radiotherapy and Oncology
+### ESTRO: European Society for Radiotherapy and Oncology
 **[estro.org](https://www.estro.org/)**
 
 ESTRO organises the largest annual European radiation oncology congress, as well as dedicated physics, biology, and technology-focused courses and [workshops](https://www.estro.org/Workshops) throughout the year, including:
 
-- **ESTRO Physics Workshop** — a recurring event on emerging physics and technology in radiotherapy; the 2026 edition runs 8–9 October 2026 in Prague, Czech Republic.
-- **ESTRO Clinical Workshop: AI & Big Data** — focused on the use of AI for auto-contouring (organ-at-risk and target volumes), for clinicians, physicists, and data scientists.
-- **GEC-ESTRO Workshop** — the brachytherapy-focused counterpart, with the 2026 edition running 19–20 November 2026 in Seville, Spain.
+- **ESTRO Physics Workshop**: a recurring event on emerging physics and technology in radiotherapy; the 2026 edition runs 8–9 October 2026 in Prague, Czech Republic.
+- **ESTRO Clinical Workshop, AI & Big Data**: focused on the use of AI for auto-contouring (organ-at-risk and target volumes), for clinicians, physicists, and data scientists.
+- **GEC-ESTRO Workshop**: the brachytherapy-focused counterpart, with the 2026 edition running 19–20 November 2026 in Seville, Spain.
 
-### ASTRO — American Society for Radiation Oncology
+### ASTRO: American Society for Radiation Oncology
 **[astro.org](https://www.astro.org/)**
 
 ASTRO hosts the world's largest radiation oncology meeting each autumn, covering the full spectrum of clinical, technological, and research advances in the field. The annual meeting includes dedicated tracks on AI, treatment planning, and emerging technologies.
 
-### ICCR — International Conference on the use of Computers in Radiation Therapy
-**[iccr2024.org](https://iccr2024.org/)** *(2024 edition — 2027 edition site not yet live)*
+### ICCR: International Conference on the use of Computers in Radiation Therapy
+**[iccr2024.org](https://iccr2024.org/)** *(2024 edition; 2027 edition site not yet live)*
 
-ICCR is one of the longest-running dedicated venues for computational methods in radiotherapy, held roughly every three years since the 1970s; the 20th edition was held in Lyon, France, in July 2024. The next edition, ICCR 2027, is planned for Quebec, Canada — details to follow via ESTRO/AAPM/COMP channels as the official site is announced.
+ICCR is one of the longest-running dedicated venues for computational methods in radiotherapy, held roughly every three years since the 1970s; the 20th edition was held in Lyon, France, in July 2024. The next edition, ICCR 2027, is planned for Quebec, Canada, with details to follow via ESTRO/AAPM/COMP channels as the official site is announced.
 
 ---
 

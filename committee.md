@@ -11,7 +11,7 @@ layout: default
 
 ## Organising Committee
 
-The MIART 2026 organising committee spans institutions across Europe, North America, and South America. Hover or tap a marker on the map to see who's there — or use the list view below.
+The MIART 2026 organising committee spans institutions across Europe, North America, and South America. Hover or tap a marker on the map to see who's there, or use the list view below.
 
 <style>
   .committee-map-wrap {
@@ -205,15 +205,15 @@ The MIART 2026 organising committee spans institutions across Europe, North Amer
 <details style="max-width: 700px; margin: 1.5rem auto 0;">
   <summary style="cursor: pointer; color: #157878; text-align: center;">View committee as a list</summary>
   <ul>
-    <li><strong>Mauricio Reyes</strong> — University of Bern, Switzerland</li>
-    <li><strong>Oscar Acosta</strong> — Université de Rennes, France</li>
-    <li><strong>Javier Pascau</strong> — Universidad Carlos III de Madrid, Spain</li>
-    <li><strong>Eliana Vásquez</strong> — University of Manchester, United Kingdom</li>
-    <li><strong>Francesca Spadea</strong> — Karlsruhe Institute of Technology, Germany</li>
-    <li><strong>Gloria Díaz</strong> — Instituto Tecnológico Metropolitano, Colombia</li>
-    <li><strong>Gabor Fichtinger</strong> — Queen's University, Canada</li>
-    <li><strong>Parvin Mousavi</strong> — Queen's University, Canada</li>
-    <li><strong>Amith Kamath</strong> — University of Bern, Switzerland</li>
+    <li><strong>Mauricio Reyes</strong>, University of Bern, Switzerland</li>
+    <li><strong>Oscar Acosta</strong>, Université de Rennes, France</li>
+    <li><strong>Javier Pascau</strong>, Universidad Carlos III de Madrid, Spain</li>
+    <li><strong>Eliana Vásquez</strong>, University of Manchester, United Kingdom</li>
+    <li><strong>Francesca Spadea</strong>, Karlsruhe Institute of Technology, Germany</li>
+    <li><strong>Gloria Díaz</strong>, Instituto Tecnológico Metropolitano, Colombia</li>
+    <li><strong>Gabor Fichtinger</strong>, Queen's University, Canada</li>
+    <li><strong>Parvin Mousavi</strong>, Queen's University, Canada</li>
+    <li><strong>Amith Kamath</strong>, University of Bern, Switzerland</li>
   </ul>
   <p style="font-size: 0.85rem;">Hover or tap a marker on the map above for a link to each organiser's profile page.</p>
 </details>
@@ -227,6 +227,6 @@ For enquiries, please contact any of the general chairs listed above, or visit t
 ---
 
 <p style="text-align: center;">
-  <a href="{{ '/call-for-papers.html' | relative_url }}" class="btn">&larr; Call for Papers</a>
+  <a href="{{ '/papers.html' | relative_url }}" class="btn">&larr; Papers</a>
   <a href="{{ '/' | relative_url }}" class="btn">Back to Home &rarr;</a>
 </p>

@@ -1,0 +1,21 @@
+---
+layout: null
+sitemap: false
+---
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="0; url={{ '/papers.html' | relative_url }}">
+  <link rel="canonical" href="{{ '/papers.html' | absolute_url }}">
+  <meta name="robots" content="noindex">
+  <title>Redirecting to Papers</title>
+</head>
+
+<body>
+  <p>The call for papers has moved. Redirecting to <a href="{{ '/papers.html' | relative_url }}">Papers</a>.</p>
+  <script>location.replace({{ '/papers.html' | relative_url | jsonify }});</script>
+</body>
+
+</html>
