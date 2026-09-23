@@ -24,7 +24,7 @@ Welcome to the official website of the **MIART 2026** workshop, held in conjunct
 - **Location:** Room Londrezs 1 (ground floor)
 - **Format:** In-person
 
-**Submissions are closed and the programme is complete.** Twenty-seven papers were accepted; see the [full list of accepted papers](papers.html). All 27 are presented as **posters**, and **nine** were additionally selected for **oral presentation** across three thematic sessions, alongside three invited keynotes. The [programme](#programme) below gives the full schedule. All accepted papers will appear in the MICCAI 2026 Springer proceedings. See [About & Announcements](about.html) for the full acceptance statistics and the latest news.
+**Submissions are closed and the programme is complete.** Twenty-seven papers were accepted; see the [full list of accepted papers](papers.html). All 27 are presented as **posters**, and **nine** were additionally selected for **oral presentation** across three thematic sessions, alongside two invited keynotes. The [programme](#programme) below gives the full schedule. All accepted papers will appear in the MICCAI 2026 Springer proceedings. See [About & Announcements](about.html) for the full acceptance statistics and the latest news.
 
 MIART Workshop 2026 is [endorsed](https://www.estro.org/Congresses/Endorsed-congresses) by the European Society for Radiotherapy and Oncology (ESTRO).
 
@@ -34,7 +34,7 @@ MIART Workshop 2026 is [endorsed](https://www.estro.org/Congresses/Endorsed-cong
 
 The workshop will take place in **Room Londrezs 1 (ground floor)**, 08:00 – 12:30, per the [official MICCAI 2026 Satellite Events programme](https://conferences.miccai.org/2026/files/downloads/MICCAI2026-Satellite-Events-Program.pdf).
 
-Each oral contribution is allotted **8 minutes for presentation + 2 minutes for questions**. Oral sessions are grouped thematically and paired with the keynote that precedes them. All 27 accepted papers, including the nine selected for oral presentation, are also presented as posters; see the [papers](papers.html) page for the complete listing. Poster presentation details will be circulated to authors ahead of the workshop.
+Each oral contribution is allotted **8 minutes for presentation + 2 minutes for questions**. Oral sessions are grouped thematically; the first two are each paired with the keynote that precedes them. All 27 accepted papers, including the nine selected for oral presentation, are also presented as posters; see the [papers](papers.html) page for the complete listing. Poster presentation details will be circulated to authors ahead of the workshop.
 
 | Time | Session |
 | ---- | ------- |
@@ -45,12 +45,12 @@ Each oral contribution is allotted **8 minutes for presentation + 2 minutes for 
 | 08:55 – 09:05 | **DoMa-Seg: Dose Map Guidance for Medical Image Segmentation in Head and Neck Radiotherapy** <br> Jihe Li *et al.* |
 | 09:05 – 09:15 | **Parameter-Efficient Pretrained-CT-to-MRI Transfer for Rectal Cancer Segmentation: Performance-Calibration Trade-Offs** <br> Aneesh Rangnekar *et al.* |
 | **09:15 – 10:00** | **Image synthesis in radiotherapy: state-of-the-art, clinical integration, and future directions** <br> **Matteo Maspero** – Assistant professor and Medical Physicist. Radiotherapy Department, Computational Imaging Group for MR Therapy and Diagnostics. University Medical Center Utrecht |
-| **10:00 – 10:30** | **Coffee Break** |
+| **10:00 – 10:30** | **Break** |
 | **10:30 – 11:00** | **Oral Session 2: Cross-Modality Image Synthesis** |
 | 10:30 – 10:40 | **SynthRCT: Scalable Conditional Deformation Synthesis for Synthetic Repeat CT Generation** <br> Tomas Guija-Valiente *et al.* |
 | 10:40 – 10:50 | **Can We Trust Synthetic CT Algorithms? Uncertainty-Aware Evaluation of CBCT to CT Synthesis for Adaptive Proton Therapy** <br> Blanca Rodriguez-Gonzalez *et al.* |
 | 10:50 – 11:00 | **Cross-Modal Spatial Gating of Planning-MRI Priors for Longitudinal CBCT-to-CT Synthesis** <br> Vincent Jaouen *et al.* |
-| **11:00 – 11:45** | **From Pixels to Decisions: Building Clinically Actionable AI in Radiation Oncology** <br> **Jan Peeken** – Managing Senior Physician and Lead of the Artificial Intelligence in Radiation Oncology Research Group, TUM University Hospital Munich |
+| **11:00 – 11:45** | **Break** |
 | **11:45 – 12:15** | **Oral Session 3: Adaptive Radiotherapy (Longitudinal Imaging, Motion & Dose)** |
 | 11:45 – 11:55 | **CBCT Segmentation in Head and Neck ART: A Longitudinal Deep Learning Approach** <br> Lucía Cubero *et al.* |
 | 11:55 – 12:05 | **Motion-Consistent Memory for Foundation Model-Based Tumor Tracking in MR-Guided Radiotherapy** <br> Pauline Ornela Megne Choudja *et al.* |
