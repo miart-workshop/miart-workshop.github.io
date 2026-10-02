@@ -1,0 +1,13 @@
+# One entry per MIART edition, oldest first. Each edition's pages live in /<year>/.
+# The edition the root URLs point to is `current_edition` in _config.yml.
+# `make new-edition YEAR=<year>` appends a stub entry here (see README.md).
+
+- year: 2026
+  conference: MICCAI 2026
+  hero_images:
+    - src: /assets/images/miccai2026-logo-france.png
+      alt: MICCAI 2026 logo
+    - src: /assets/images/MICCAI2026-landscape-web.jpg
+      alt: MICCAI 2026, 29th International Conference on Medical Image Computing and Computer Assisted Intervention, Sept. 27 - Oct. 1 2026, Strasbourg Convention Center, France
+    - src: /assets/images/MICCAI2026-logo-07.png
+      alt: MICCAI 2026 wordmark

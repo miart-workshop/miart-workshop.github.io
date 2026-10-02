@@ -227,6 +227,6 @@ For enquiries, please contact any of the general chairs listed above, or visit t
 ---
 
 <p style="text-align: center;">
-  <a href="{{ '/papers.html' | relative_url }}" class="btn">&larr; Papers</a>
-  <a href="{{ '/' | relative_url }}" class="btn">Back to Home &rarr;</a>
+  <a href="papers.html" class="btn">&larr; Papers</a>
+  <a href="./" class="btn">Back to Home &rarr;</a>
 </p>

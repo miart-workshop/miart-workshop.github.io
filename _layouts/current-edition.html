@@ -1,0 +1,26 @@
+{%- comment -%}
+  Redirects a root URL to the same page of the current edition, e.g. /papers.html -> /2026/papers.html.
+  Set `target` in the page's front matter to the page inside the edition folder (empty for its home page).
+{%- endcomment -%}
+{%- assign target = '/' | append: site.current_edition | append: '/' | append: page.target -%}
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="0; url={{ target | relative_url }}">
+  <link rel="canonical" href="{{ target | absolute_url }}">
+  <meta name="robots" content="noindex">
+  <title>Redirecting to MIART {{ site.current_edition }}</title>
+  <script>
+    // Keep the #anchor of old links, e.g. /papers.html#accepted-papers -> /2026/papers.html#accepted-papers.
+    var target = {{ target | relative_url | jsonify }};
+    location.replace(target.indexOf('#') < 0 ? target + location.hash : target);
+  </script>
+</head>
+
+<body>
+  <p>Redirecting to <a href="{{ target | relative_url }}">MIART {{ site.current_edition }}</a>.</p>
+</body>
+
+</html>

@@ -69,7 +69,3 @@ ASTRO hosts the world's largest radiation oncology meeting each autumn, covering
 **[iccr2024.org](https://iccr2024.org/)** *(2024 edition; 2027 edition site not yet live)*
 
 ICCR is one of the longest-running dedicated venues for computational methods in radiotherapy, held roughly every three years since the 1970s; the 20th edition was held in Lyon, France, in July 2024. The next edition, ICCR 2027, is planned for Quebec, Canada, with details to follow via ESTRO/AAPM/COMP channels as the official site is announced.
-
----
-
-*Paper resources and slides from MIART 2026 will be posted here after the workshop.*

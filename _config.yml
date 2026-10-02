@@ -1,4 +1,21 @@
 title: MIART Workshop
-description: Medical Image AI in Radiation Therapy, MICCAI 2026
+description: Medical Image AI in Radiation Therapy
 theme: jekyll-theme-cayman
 repository: miart-workshop/miart-workshop.github.io
+
+# The edition that the root URLs (/, /papers.html, ...) redirect to.
+# Each edition lives in /<year>/ and is listed in _data/editions.yml; see README.md.
+current_edition: 2026
+
+# Setting `exclude` replaces Jekyll's defaults, so they are repeated here.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - CNAME
+  - Makefile
+  - README.md

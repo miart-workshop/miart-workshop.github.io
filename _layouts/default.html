@@ -1,3 +1,14 @@
+{%- comment -%}
+  The edition comes from the page's first URL segment (/2026/papers.html -> 2026);
+  pages outside an edition folder fall back to site.current_edition.
+{%- endcomment -%}
+{%- assign url_parts = page.url | split: '/' -%}
+{%- assign edition = site.data.editions | where: 'year', url_parts[1] | first -%}
+{%- unless edition -%}
+{%- assign edition = site.data.editions | where: 'year', site.current_edition | first -%}
+{%- endunless -%}
+{%- assign edition_base = '/' | append: edition.year | append: '/' -%}
+{%- assign current_base = '/' | append: site.current_edition | append: '/' -%}
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: " en-US" }}">
 
@@ -47,6 +58,15 @@
         height: 130px;
       }
     }
+
+    .edition-notice {
+      padding: 0.75rem 1rem;
+      margin-bottom: 1.5rem;
+      border-radius: 0.5rem;
+      background: #fdf3d6;
+      border-left: 4px solid #c99a1a;
+      color: #4a3a00;
+    }
   </style>
 </head>
 
@@ -60,18 +80,18 @@
       <div>
         <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
         <h2 class="project-tagline">{{ page.description | default: site.description | default:
-          site.github.project_tagline }}</h2>
+          site.github.project_tagline }}{% if edition.conference %}, {{ edition.conference }}{% endif %}</h2>
       </div>
     </div>
 
+    {% if edition.hero_images %}
     <div class="hero-slideshow" id="hero-slideshow">
-      <img class="hero-slide is-active" src="{{ '/assets/images/miccai2026-logo-france.png' | relative_url }}"
-        alt="MICCAI 2026 logo">
-      <img class="hero-slide" src="{{ '/assets/images/MICCAI2026-landscape-web.jpg' | relative_url }}"
-        alt="MICCAI 2026, 29th International Conference on Medical Image Computing and Computer Assisted Intervention, Sept. 27 - Oct. 1 2026, Strasbourg Convention Center, France">
-      <img class="hero-slide" src="{{ '/assets/images/MICCAI2026-logo-07.png' | relative_url }}"
-        alt="MICCAI 2026 wordmark">
+      {% for image in edition.hero_images %}
+      <img class="hero-slide{% if forloop.first %} is-active{% endif %}" src="{{ image.src | relative_url }}"
+        alt="{{ image.alt }}">
+      {% endfor %}
     </div>
+    {% endif %}
     <script>
       (function () {
         var slides = document.querySelectorAll('#hero-slideshow .hero-slide');
@@ -86,21 +106,33 @@
     </script>
 
     <nav style="margin-top: 2rem;">
-      <a href="{{ '/' | relative_url }}" class="btn">Home</a>
-      <a href="{{ '/about.html' | relative_url }}" class="btn">About</a>
-      <a href="{{ '/papers.html' | relative_url }}" class="btn">Papers</a>
-      <a href="{{ '/committee.html' | relative_url }}" class="btn">Committee</a>
-      <a href="{{ '/resources.html' | relative_url }}" class="btn">Resources</a>
+      <a href="{{ edition_base | relative_url }}" class="btn">Home</a>
+      <a href="{{ edition_base | append: 'about.html' | relative_url }}" class="btn">About</a>
+      <a href="{{ edition_base | append: 'papers.html' | relative_url }}" class="btn">Papers</a>
+      <a href="{{ edition_base | append: 'committee.html' | relative_url }}" class="btn">Committee</a>
+      <a href="{{ edition_base | append: 'resources.html' | relative_url }}" class="btn">Resources</a>
     </nav>
   </header>
 
   <main id="content" class="main-content" role="main">
+    {% if edition.year < site.current_edition %}
+    <p class="edition-notice">You are viewing the archived <strong>MIART {{ edition.year }}</strong> edition.
+      <a href="{{ current_base | relative_url }}">Go to the current edition, MIART {{ site.current_edition }} &rarr;</a></p>
+    {% elsif edition.year > site.current_edition %}
+    <p class="edition-notice">This is a preview of <strong>MIART {{ edition.year }}</strong> and is not yet live.
+      <a href="{{ current_base | relative_url }}">Go to the current edition, MIART {{ site.current_edition }} &rarr;</a></p>
+    {% endif %}
+
     {{ content }}
 
     <footer class="site-footer">
       <span class="site-footer-credits">&copy; {{ site.time | date: '%Y' }} The Organisers. &nbsp;|&nbsp;
         <a href="https://www.linkedin.com/company/miart-workshop" target="_blank" rel="noopener">Follow us on
           LinkedIn</a>
+      </span>
+      <span class="site-footer-credits">Editions:
+        {% for e in site.data.editions %}{% if e.year <= site.current_edition %}<a href="{{ '/' | append: e.year | append: '/' | relative_url }}">MIART {{ e.year }}</a>{% if e.year == site.current_edition %} (current){% else %} &middot;{% endif %}
+        {% endif %}{% endfor %}
       </span>
     </footer>
   </main>
